@@ -2,11 +2,7 @@
 
 Watch youtube in sync with your friends!
 
-Visit our website at [https://ytparty.ml](https://ytparty.ml) to see this project in action.
-
 Watch our demo at https://www.youtube.com/watch?v=Y8Tq7FqnPMc
-
-Check our uptime at https://status.ytparty.ml/
 
 ## Development
 
@@ -53,7 +49,3 @@ The frontend should be listening on port 3000 and the backend on 5000. Just stic
 ## API Documentation
 
 Please see `DOCS.md`
-
-## Credits
-
-You can visit https://ytparty.ml/credits to view all the code snippets, tutorials, and documentation we referenced.
